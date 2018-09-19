@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Site Title
+title: Danielle F. Lawson, ABD
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Danielle F. Lawson
+  name: Danielle Lawson
   avatar: bio-photo.jpg
   bio: "Ph.D. Candidate specializing in Outdoor/Environmental Education."
   email: danielle_lawson@ncsu.edu
